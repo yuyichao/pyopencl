@@ -3,4 +3,4 @@
 	url = https://github.com/inducer/bpl-subset
 [submodule "pyopencl/compyte"]
 	path = pyopencl/compyte
-	url = https://github.com/inducer/compyte
+	url = https://github.com/yuyichao/compyte
